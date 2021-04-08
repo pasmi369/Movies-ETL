@@ -31,6 +31,10 @@ All the three above files will perform Extract, Transfer and load process (ETL) 
 ## Summary:
 After completing the extract, transform, and load process, I had a database with two tables: one for movies and one for ratings.
 - The movie data from Wikipedia and Kaggle from their respective files, transform the datasets by cleaning them and merging them together, then load the cleaned dataset into a SQL database.The "movies" table contains 6,052 rows based on the kaggle and wikipedia data. 
+
+
 ![movies_query](./Resources/movies_query.png)
+
+
 - The "ratings" table includes 26,024,289 rows of data.
 ![ratings_query](./Resources/ratings_query.png)
