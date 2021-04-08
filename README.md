@@ -5,7 +5,7 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. T
 - ### Kaggle Metadata
 - ### MovieLens Rating Data 
 
-### All the three above files will perform Extract, Transfer and load process (ETL) by adding the data to a PostgreSQL Database. 
+All the three above files will perform Extract, Transfer and load process (ETL) by adding the data to a PostgreSQL Database. 
 
 ## Results:
 ### Deliverable 1: ETL Function to Read Three Data Files
